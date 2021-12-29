@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2dArray/2dArray.iml" filepath="$PROJECT_DIR$/2dArray/2dArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hacker-rank.iml" filepath="$PROJECT_DIR$/.idea/hacker-rank.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseArray/reverseArray.iml" filepath="$PROJECT_DIR$/reverseArray/reverseArray.iml" />
     </modules>
